@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name" translatable="false">Movie List</string>
+    <string name="search_film" translatable="false">Search Movie ?</string>
+</resources>
